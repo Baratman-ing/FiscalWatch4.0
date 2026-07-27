@@ -1,0 +1,68 @@
+project:
+  name: "Fiscal Watch 4.0"
+  max_items_per_source: 100
+  state_file: "data/seen.json"
+
+keywords:
+  strong:
+    - "transizione 5.0"
+    - "transizione 4.0"
+    - "industria 4.0"
+    - "iperammortamento"
+    - "superammortamento"
+    - "credito d'imposta beni strumentali"
+    - "nuovo piano transizione 5.0"
+  related:
+    - "beni strumentali"
+    - "interconnessione"
+    - "allegato a"
+    - "allegato b"
+    - "perizia asseverata"
+    - "perizia tecnica"
+    - "software 4.0"
+    - "investimenti agevolati"
+    - "risparmio energetico"
+    - "certificazione ex ante"
+    - "certificazione ex post"
+    - "credito d'imposta"
+
+matching:
+  strong_score: 100
+  related_score: 25
+  minimum_score: 50
+
+sources:
+  - name: "Agenzia Entrate - Interpelli"
+    type: html
+    url: "https://www.agenziaentrate.gov.it/portale/Normativa%2Be%2BPrassi/Risposte%2Bagli%2Binterpelli/Interpelli/"
+    include_link_patterns: [".pdf"]
+
+  - name: "Agenzia Entrate - Circolari"
+    type: html
+    url: "https://www.agenziaentrate.gov.it/portale/normativa-e-prassi/circolari"
+    include_link_patterns: [".pdf"]
+
+  - name: "Agenzia Entrate - Risoluzioni"
+    type: html
+    url: "https://www.agenziaentrate.gov.it/portale/normativa-e-prassi/risoluzioni"
+    include_link_patterns: [".pdf"]
+
+  - name: "MIMIT - Transizione 4.0"
+    type: html
+    url: "https://www.mimit.gov.it/index.php/it/transizione40"
+    include_link_patterns: ["transizione", "credito", ".pdf", ".doc", ".xlsx"]
+
+  - name: "MIMIT - Transizione 5.0"
+    type: html
+    url: "https://www.mimit.gov.it/it/incentivi/piano-transizione-5-0"
+    include_link_patterns: ["transizione", ".pdf", ".doc", ".xlsx"]
+
+  - name: "GSE - Documenti Transizione 5.0"
+    type: html
+    url: "https://www.gse.it/servizi-per-te/attuazione-misure-pnrr/transizione-5-0/documenti"
+    include_link_patterns: ["transizione", ".pdf", ".doc", ".xlsx"]
+
+  - name: "GSE - Nuovo Piano Transizione 5.0"
+    type: html
+    url: "https://www.gse.it/servizi-per-te/imprese/nuovo-piano-transizione-5-0/documenti"
+    include_link_patterns: ["transizione", ".pdf", ".doc", ".xlsx"]
