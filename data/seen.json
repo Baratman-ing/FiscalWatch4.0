@@ -425,8 +425,14 @@
       "source": "MIMIT - Transizione 5.0",
       "title": "Risposte alle domande frequenti",
       "url": "https://www.mimit.gov.it/images/stories/documenti/allegati/FAQ_Transizione_5.0_10_aprile.pdf"
+    },
+    "acb65db9b41e0380e8909325fef7524f84b222a203afd8061aa09fc9ebf58a46": {
+      "first_seen": "2026-07-29T13:11:29.369895+00:00",
+      "source": "Agenzia Entrate - Risoluzioni",
+      "title": "Decreti di espropriazione per pubblica utilità – Modalità di esecuzione delle relative formalità nei registri immobiliari",
+      "url": "https://www.agenziaentrate.gov.it/portale/documents/20143/10196141/Risoluzione+n.+29+del+28+luglio+2026.pdf/9d443b3e-1e2f-58e6-1ba3-01464f9000a9?t=1785245178523"
     }
   },
   "initialized": true,
-  "last_run": "2026-07-28T12:26:59.786062+00:00"
+  "last_run": "2026-07-29T13:11:32.546193+00:00"
 }
