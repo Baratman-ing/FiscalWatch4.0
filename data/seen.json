@@ -839,8 +839,32 @@
       "source": "Agenzia Entrate - Risoluzioni",
       "title": "Atti di compravendita immobiliare con riserva di proprietà di cui agli artt. 1523 e ss. del codice civile - Adempimenti di pubblicità immobiliare e voltura catastale",
       "url": "https://www.agenziaentrate.gov.it/portale/documents/20143/10440314/RISOLUZIONE+VENDITA+CON+RISERVA+PROPRIETA.pdf/c8403a1b-df8e-ea51-21ac-58127320ce86?t=1793808018542"
+    },
+    "6add39a479a36fcde096aad9d731f8270ae9e16b8d5d8cf107120757aaa4c9aa": {
+      "first_seen": "2026-11-09T16:11:05.932562+00:00",
+      "source": "Agenzia Entrate - Interpelli",
+      "title": "Dispositivi medici – aliquota IVA applicabile",
+      "url": "https://www.agenziaentrate.gov.it/portale/documents/20143/10443592/Risposta+n.+206_2026.pdf/4dfd5e28-7106-5c9a-89a6-876af7e21216?t=1794218900555"
+    },
+    "5e8724e23fcb7c3aaa402283cd8a39e8e0d2516eb543c5fb2ecdca2d326e9d79": {
+      "first_seen": "2026-11-09T16:11:05.932585+00:00",
+      "source": "Agenzia Entrate - Interpelli",
+      "title": "Dispositivi medici – aliquota IVA applicabile",
+      "url": "https://www.agenziaentrate.gov.it/portale/documents/20143/10443592/Risposta+n.+205_2026.pdf/9bdf9003-238a-7ab9-c5d5-6b5c7691ee8a?t=1794218898579"
+    },
+    "e66390d216066ca947e736351a164a04a789eb5e4d7977de65b6abac3d476b80": {
+      "first_seen": "2026-11-09T16:11:05.932595+00:00",
+      "source": "Agenzia Entrate - Interpelli",
+      "title": "Integratori alimentari – aliquota IVA applicabile",
+      "url": "https://www.agenziaentrate.gov.it/portale/documents/20143/10443592/Risposta+n.+204_2026.pdf/89d7fcfc-a5d1-cb75-0930-9b77fc4e51eb?t=1794218661460"
+    },
+    "afbb5c0e6e9528d26dd0777a8f2fca108401acd19ae652999612a1bd80e751c6": {
+      "first_seen": "2026-11-09T16:11:05.932604+00:00",
+      "source": "Agenzia Entrate - Interpelli",
+      "title": "Prodotti agricoli – aliquota IVA e percentuali di compensazione applicabili",
+      "url": "https://www.agenziaentrate.gov.it/portale/documents/20143/10443592/Risposta+n.+203_2026.pdf/444178f9-f8a6-d816-0656-6c972ee1b7ef?t=1794218298542"
     }
   },
   "initialized": true,
-  "last_run": "2026-11-08T13:19:45.342446+00:00"
+  "last_run": "2026-11-09T16:12:09.946137+00:00"
 }
